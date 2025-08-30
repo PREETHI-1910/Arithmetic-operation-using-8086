@@ -62,7 +62,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+
+
 
 ---
 
@@ -91,7 +92,7 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|        <img width="640" height="480" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/3e03f670-64ad-4fb1-9e21-489d25d41741" />| <img width="640" height="480" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/87cd2952-35ea-4c5f-9a24-f2050268eb6a" /> |
 
 #### Manual Calculations
 
